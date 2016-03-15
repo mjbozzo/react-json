@@ -23,9 +23,7 @@
   "homepage": "https://github.com/arqex/react-json",
   "dependencies": {
     "freezer-js": "^0.5.2",
-    "object-assign": "^2.0.0"
-  },
-  "peerDependencies": {
+    "object-assign": "^2.0.0",
     "react": "^0.13.1"
   },
   "devDependencies": {
