@@ -24,7 +24,7 @@
   "dependencies": {
     "freezer-js": "^0.5.2",
     "object-assign": "^2.0.0",
-    "react": "^0.13.1"
+    "react": "~0.14.4"
   },
   "devDependencies": {
     "gulp": "^3.8.11",
